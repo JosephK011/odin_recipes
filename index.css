@@ -1,0 +1,16 @@
+html{
+    background: linear-gradient(90deg, rgb(182, 159, 62), rgb(182, 170, 90));
+}
+h1{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+}
+li{
+    padding-top: 25px;
+}
