@@ -1,5 +1,5 @@
 html{
-    background: linear-gradient(90deg, rgb(182, 159, 62), rgb(182, 170, 90));
+    background: linear-gradient(90deg,rgb(182, 170, 90) , rgb(182, 159, 62));
 }
 h1{
     text-align: center;
@@ -8,9 +8,25 @@ body{
     text-align: center;
 }
 ul{
-    display: inline-block;
-    text-align: left;
+    text-align: center;
+    list-style-type: none;
 }
 li{
     padding-top: 25px;
+}
+.gif{
+    height: 100%;
+    width: 500px;
+    border: 5px solid white;
+}
+.title{
+    color: rgb(236,216,169);
+    font-size: 75px;
+    margin-top: -3px;
+    position: relative;
+}
+.recipe{
+    font-size: 30px;
+    color: rgb(236,216,169);
+    position: relative;
 }
