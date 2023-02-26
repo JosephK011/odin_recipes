@@ -1,0 +1,48 @@
+html{
+    background: linear-gradient(90deg,rgb(182, 170, 90) , rgb(182, 159, 62));
+    overflow-x: hidden;
+}
+ 
+img{
+    height: 100%;
+    width: 500px;
+    text-align: center;
+    border: 5px solid white;
+    margin-bottom: 3px;
+}
+h1{
+    text-align: center;
+}
+.title{
+    color: rgb(236,216,169);
+    font-size: 75px;
+    margin-top: -3px;
+    position: relative;
+    
+}
+body{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+.description,
+.ingredients,
+.steps{
+    font-size: 30px;
+    color: rgb(236,216,169);
+    position: relative;
+}
+
+.description{
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+.ingredients{
+    border-top: .05px solid rgb(236,216,169);
+    border-bottom: .05px solid rgb(236,216,169);
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+}
